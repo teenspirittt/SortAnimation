@@ -1,5 +1,12 @@
 ﻿# SortAnimation
- quick sort
-![изображение](https://user-images.githubusercontent.com/81105296/169335468-a34fd1c7-095a-4ed6-93b3-88212d8f8549.png)
+## insertion sort
+https://user-images.githubusercontent.com/81105296/169338168-6df8a74d-6002-4176-81d5-fff6e8a26bff.mp4
 
-![изображение](https://user-images.githubusercontent.com/81105296/169335409-3a23dea7-ae56-4748-8f39-2b6a213b5a2c.png)
+## quick sort
+https://user-images.githubusercontent.com/81105296/169338482-f4588e17-5441-4af4-8f96-25225513583c.mp4
+
+## Cocktail-Shaker sort
+https://user-images.githubusercontent.com/81105296/169339352-5fff31bf-7ae7-4d33-9b31-4d08eb39f550.mp4
+
+
+
